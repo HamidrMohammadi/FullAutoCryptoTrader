@@ -33,8 +33,8 @@ exchange = ccxt.coinex()
 ########################
 
 authentication = {
-        "apiKey": "480B72C2617241488E583CD72F41795B",
-        "secret": "11F60C1B1B96F61B14354A781489C3EB4F831C91C584F444",
+        "apiKey": "",
+        "secret": "",
 }
 
 
